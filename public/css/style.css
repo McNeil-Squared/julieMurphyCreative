@@ -87,6 +87,17 @@ h2 {
     padding: 20px;
 }
 
+/****** Header ******/
+
+.avatar {
+    border: 5px solid white;
+    margin: 20px 30px 20px 30px;
+}
+
+.menu {
+    margin-right:30px;
+}
+
 /****** About *****/
 
 #para1 {
