@@ -1,0 +1,182 @@
+/****** Global Styles *****/
+
+body {
+    font-family: 'Quicksand', sans-serif;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-top:20px;
+    margin-right: 10px;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: #00fd15;
+    font-size: 2.0rem;   
+}
+
+h2 {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 15px;
+}
+/****** Colors ******/
+
+.black {
+    background-color: #000000;
+}
+
+.pantoneGreen {
+    background-color: #00fd15;
+}
+
+.lightGray {
+    background-color: lightgrey;
+}
+
+.grey {
+    background-color: gray;
+}
+
+.whiteText {
+    color: white;
+}
+
+.greenText {
+    color: #00fd15; 
+}
+
+/****** Colored Div Sizes ******/
+
+.tall {
+    height: 50px;
+}
+
+.medium {
+    height: 30px;
+}
+
+.small {
+    height: 20px;
+}
+
+
+/****** Width Controls ******/
+
+.smallLogo{
+    width:15%;
+}
+
+.medLogo {
+    width:18%;
+}
+
+.largeLogo {
+    width:90%;
+}
+
+.smallPara {
+    width: 80%;
+    margin-left: 10%;
+}
+
+
+.noBottom {
+    margin-bottom: 0;
+    padding: 20px;
+}
+
+/****** About *****/
+
+#para1 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+
+/****** Contact Form Area ******/
+#contact {
+    margin:0;
+    padding: 15px 0px 10px 30px;
+}
+
+textarea {
+    height: 126px;
+    width: 80%;
+}
+input, textarea {   
+    border-radius: 8px;
+}
+
+#input-name, #input-email  {
+    width: 39%;
+}
+
+#input-subject, #btn-submit  {
+    width: 80%;
+}
+
+.contactMargin {
+    margin-bottom: 10px;
+    margin-left: 30px;
+}
+
+.iconMargin {
+    margin-right: 25px;
+}
+
+#topMargin {
+    margin-top: 30px;
+}
+
+#input-email{
+    margin-left: 2%;
+}
+
+#btn-submit {
+    font-weight: bold;
+    height: 50px;
+}
+
+/****** Misc ******/
+
+.blockDisplay {
+    display: inline-block;
+    margin: 0 auto;
+    
+}
+
+.marginBottom {
+    margin-bottom: 20px;
+}
+
+
+.blackText {
+    color: #000000;
+}
+
+.blockPadding {
+    margin-right: 15px;
+}
+
+.phone {
+    margin-top: -25px;
+}
+
+.iconAlign {
+    margin-left: 50px;
+}
+
+#formSubmission {
+    width: 77%;
+    border: 3px solid rgb(146, 180, 87);
+    margin-left: 1.8em;
+    margin-bottom: 1.0em;
+    padding: 0.5em;
+    text-align: center;
+    font-weight: 600;
+    color: #0072b3;
+    border-radius: 5px;
+    font-size: 1.25em;
+}
