@@ -191,3 +191,32 @@ input, textarea {
     border-radius: 5px;
     font-size: 1.25em;
 }
+
+/****** Back to top ******/
+.back-to-top {
+ 
+background: none;
+ 
+margin: 0;
+ 
+position: fixed;
+ 
+bottom: 0;
+ 
+right: 0;
+ 
+width: 70px;
+ 
+height: 70px;
+ 
+z-index: 100;
+ 
+display: none;
+ 
+text-decoration: none;
+ 
+color: #ffffff;
+ 
+background-color: #ff9000;
+ 
+}
